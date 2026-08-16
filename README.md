@@ -1,5 +1,5 @@
 # klarinotte-feedback
-Public issue tracker and feedback repository for Klarinotte Note taking app.
+[Public issue tracker and feedback repository for Klarinotte Note taking app](https://github.com/klarinotte/klarinotte-feedback).
 
 Klarinotte is A  note-taking app with Markdown editing, end-to-end encrypted sync, and rich features like wiki-links, graph view, semantic search, and OCR.
 
