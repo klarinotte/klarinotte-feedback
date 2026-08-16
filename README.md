@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="cQ6_MurLg5AmtBsvYmsshlrLEzjL7MFAkg1OG-5DKMU" />
 # klarinotte-feedback
 [Public issue tracker and feedback repository for Klarinotte Note taking app](https://github.com/klarinotte/klarinotte-feedback).
 
